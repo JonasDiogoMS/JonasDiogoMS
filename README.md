@@ -1,0 +1,4 @@
+- 👋 Hi, I’m **Jonas Diogo**
+- 👀 I’m interested in **web** and **mobile** development 👽
+- 📌 I’m currently learning JavaScript 📌
+- 📫 How to reach me **Slashhero6@gmail.com** 📈
